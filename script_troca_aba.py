@@ -9,6 +9,7 @@ import keyboard
 driver = webdriver.Chrome()
 
 # Configura abas a serem abertas e automatizadas
+# Para adicionar novas abas basta replicar a linha "driver.execute_script("window.open('https://www.urlteste.com');")"
 
 driver.get("https://www.urlteste.com")
 driver.execute_script("window.open('https://www.urlteste.com');")
