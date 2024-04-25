@@ -1,7 +1,7 @@
 # automacao_chrome
-Automação para troca de aba e refresh de abas para Google Chrome
+Automação para troca de aba e refresh para Google Chrome.
 
-Script python que atualiza e troca de abas a cada 4 segundos após o carregamento da aba.
+Script python que atualiza e troca de abas após o carregamento da página e aguarda tempo determinado na váriavel tempo_espera comentada no código.
 
 Utilizar o comando CTRL + ESPAÇO para pausar/retomar o loop.
 
