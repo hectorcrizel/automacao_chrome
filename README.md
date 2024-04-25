@@ -11,4 +11,4 @@ São necessárias as bibliotecas selenium (pip install selenium) e keyboard (pip
 
 Necessário instalar o webdriver (https://chromedriver.chromium.org/).
 
-Para configurar as as URLs a serem automatizadas basta editar a seção comentada no código.
+Para configurar as URLs a serem automatizadas basta editar a seção comentada no código.
