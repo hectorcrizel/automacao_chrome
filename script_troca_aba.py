@@ -16,7 +16,7 @@ driver.execute_script("window.open('https://www.urlteste.com');")
 driver.execute_script("window.open('https://www.urlteste.com');")
 driver.execute_script("window.open('https://www.urlteste.com');")
 
-tempo_espera = 4
+tempo_espera = 4 # Váriavel de tempo de espera para troca de aba definido em segundos
 
 handles = driver.window_handles
 
