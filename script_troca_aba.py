@@ -11,7 +11,7 @@ driver = webdriver.Chrome()
 # Configura abas a serem abertas e automatizadas
 
 driver.get("https://www.urlteste.com")
-driver.execute_script("window.open('https://www.urlteste.org');")
+driver.execute_script("window.open('https://www.urlteste.com');")
 driver.execute_script("window.open('https://www.urlteste.com');")
 driver.execute_script("window.open('https://www.urlteste.com');")
 
