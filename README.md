@@ -17,3 +17,8 @@ A Python automation utility built with Selenium to monitor multiple web dashboar
 *   Python
 *   Selenium
 *   Keyboard Library
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
