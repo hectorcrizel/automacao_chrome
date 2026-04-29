@@ -1,14 +1,19 @@
-# automacao_chrome
-Automação para troca de aba e refresh para Google Chrome.
+# Chrome Monitor & Tab Cycler
 
-Script python que atualiza e troca de abas após o carregamento da página e aguarda tempo determinado na váriavel tempo_espera comentada no código.
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A.svg)
 
-Utilizar o comando CTRL + ESPAÇO para pausar/retomar o loop.
+A Python automation utility built with Selenium to monitor multiple web dashboards by automatically cycling through and refreshing Chrome tabs.
 
-Baseado na versão 3.11.
+## 🚀 Key Features
 
-São necessárias as bibliotecas selenium (pip install selenium) e keyboard (pip install keyboard).
+*   **Automated Cycling:** Rotates between multiple URLs at configurable intervals.
+*   **Smart Refresh:** Ensures dashboards stay up-to-date by refreshing tabs on every cycle.
+*   **Global Hotkeys:** Built-in keyboard support (CTRL+SPACE) to pause or resume the automation instantly.
+*   **NOC Optimized:** Ideal for Network Operations Centers and monitoring dashboards.
 
-Necessário instalar o webdriver (https://chromedriver.chromium.org/).
+## 🛠️ Tech Stack
 
-Para configurar as URLs a serem automatizadas basta editar a seção comentada no código.
+*   Python
+*   Selenium
+*   Keyboard Library
